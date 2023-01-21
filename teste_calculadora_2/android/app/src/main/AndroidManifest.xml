@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.teste_calculadora_2">
    <application
-        android:label="teste_calculadora_2"
+        android:label="Flutter Calculadora"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
